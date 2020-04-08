@@ -31,3 +31,6 @@
 This FFT algorithm will create both positive and negative values, but we'll just display the positive ones. When you're done, you should see something like the following, showing peaks at the three frequency values originally provided!
 
 <br/>
+<br/><br/>
+<img src="fft.png" height=650 width=900 >
+<br/>
